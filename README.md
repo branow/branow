@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<p>
-  I'm a Software Developer focusing on backend development
-</p>
-<p>
-  - 🔭 I’m currently seeking a job.
-</p>
-<p>
-  - 🌱 I’m currently learning GO language
-</p>
-
 ![branow's Stats](https://github-readme-stats.vercel.app/api?username=branow&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![branow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=branow&theme=vue-dark&hide_border=true)
 ![branow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=branow&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
